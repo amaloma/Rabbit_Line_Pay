@@ -1,0 +1,19 @@
+{
+  "name": "rabbit_line_pay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer-split": "^1.0.0",
+    "path": "^0.12.7",
+    "readline": "^1.3.0",
+    "serialport": "^7.1.0"
+  }
+}
