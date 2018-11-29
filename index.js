@@ -1,3 +1,6 @@
+/**
+ * Example 
+ */
 
 const readline = require('readline');
 const rabbit = require('./lib/vti-protocal');
